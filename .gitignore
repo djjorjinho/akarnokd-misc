@@ -23,3 +23,5 @@ hs_err_pid*
 .checkstyle
 bin/
 !/gradle/wrapper/gradle-wrapper.jar
+.idea/
+*.iml
